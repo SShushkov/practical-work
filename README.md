@@ -14,3 +14,11 @@
     - [Задание 12.2 Сортировка.](Module-12/PracticalWork/Task-2/main.cpp)
     - [Задание 12.3 Использование *assert*.](Module-12/PracticalWork/Task-3/main.cpp)
     - [Задание 12.4 Ряд чисел.\* *(дополнительное задание)*](Module-12/PracticalWork/Task-4/main.cpp)
+
+    <br/>
+
+## **Модуль 13. Знакомство с std::vector v2.**
+- ### **Практическая работа**
+    - [Задание 13.1](Module-13/Task-1/main.cpp)
+    - [Задание 13.2](Module-13/Task-2/main.cpp)
+    - [Задание 13.3](Module-13/Task-3/main.cpp)
